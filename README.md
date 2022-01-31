@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @loonabus
 - 👀 I’m interested in Java
-- 🌱 I’m currently working for ...
-- 💞️ I’m interested in Kotlin & Clojure
 - 📫 You can reach me at email
 
 <!---
