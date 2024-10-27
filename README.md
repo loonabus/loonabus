@@ -1,5 +1,5 @@
 - 👋 Hi I’m @loonabus.
-- 👀 I’m interested in Java and do that for life.
+- 👀 I’m interested in Java and do it for life.
 - 📫 You can reach me at email. (korean or english)
 - [Abandoned blog is here.](https://velog.io/@looniverse/posts)
 
